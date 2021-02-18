@@ -196,7 +196,7 @@ img {
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
-  font-size: 28px;
+  font-size: 48px;
   letter-spacing: 1px;
 }
 
@@ -273,9 +273,9 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  border-top: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+  background-color: $white;
 }
 
 footer {
